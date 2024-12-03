@@ -68,4 +68,4 @@
 - Opportunities (возможности)
 - Threats (угрозы)
 
-![SWOT](./resources/images/SWOT.png)
+![SWOT](./resources/img/SWOT.png)
